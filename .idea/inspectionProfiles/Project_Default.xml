@@ -1,0 +1,67 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="HtmlUnknownTag" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="myValues">
+        <value>
+          <list size="7">
+            <item index="0" class="java.lang.String" itemvalue="nobr" />
+            <item index="1" class="java.lang.String" itemvalue="noembed" />
+            <item index="2" class="java.lang.String" itemvalue="comment" />
+            <item index="3" class="java.lang.String" itemvalue="noscript" />
+            <item index="4" class="java.lang.String" itemvalue="embed" />
+            <item index="5" class="java.lang.String" itemvalue="script" />
+            <item index="6" class="java.lang.String" itemvalue="li" />
+          </list>
+        </value>
+      </option>
+      <option name="myCustomValuesEnabled" value="true" />
+    </inspection_tool>
+    <inspection_tool class="JSUnresolvedReference" enabled="false" level="WEAK WARNING" enabled_by_default="false" />
+    <inspection_tool class="PyPackageRequirementsInspection" enabled="false" level="WARNING" enabled_by_default="false">
+      <option name="ignoredPackages">
+        <value>
+          <list size="3">
+            <item index="0" class="java.lang.String" itemvalue="Flask" />
+            <item index="1" class="java.lang.String" itemvalue="psycopg2" />
+            <item index="2" class="java.lang.String" itemvalue="Django" />
+          </list>
+        </value>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyPep8Inspection" enabled="true" level="WEAK WARNING" enabled_by_default="true">
+      <option name="ignoredErrors">
+        <list>
+          <option value="E722" />
+          <option value="W292" />
+        </list>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="studybud.base.models.Room.objects" />
+          <option value="studybud.base.models.Topic.objects" />
+          <option value="vitisim.website.models.Player.*" />
+          <option value="vitisim.website.models.Crops.*" />
+          <option value="website.models.Game_Time.*" />
+          <option value="website.models.Player.*" />
+          <option value="website.models.Crops.*" />
+          <option value="vitisim.website.models.Game_Time.*" />
+          <option value="vitisim.website.models.Cooperative.*" />
+          <option value="vitisim.website.models.Barn.*" />
+          <option value="vitisim.website.models.Warehouse.*" />
+          <option value="vitisim.website.models.Cellar.*" />
+          <option value="vitisim.website.models.Shop.*" />
+          <option value="vitisim.website.models.Tank.*" />
+          <option value="website.mysite.models.SwimmingSpot.objects" />
+          <option value="website.mysite.models.Category.objects" />
+          <option value="website.mysite.models.Rating.objects" />
+          <option value="website.mysite.models.Comment.objects" />
+          <option value="website.website.urls.SwimmingSpotSitemap" />
+          <option value="website.website.settings.prod.CHANNEL_LAYERS" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
